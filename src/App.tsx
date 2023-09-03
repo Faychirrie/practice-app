@@ -6,7 +6,7 @@ function App()
     'Nairobi',
     'Eldoret',
     'Kisumu',
-    'Nakuru'
+    'Mombasa'
 ];
 const handleSelectItem=(item:string)=>{
   console.log('I am clicked'+ item)
